@@ -1,7 +1,7 @@
 {
   "name": "fvtt-wfrp4e-es",
   "title": "Translation: Spanish (WFRP4E)",
-  "description": "WFRP4E Warhammer Fantasy Roleplay 4E Spanish Translation/Traducción al Español del Sistema Warhammer Warhammer Juego de Rol de Fantasía 4a",
+  "description": "WFRP4E Warhammer Fantasy Roleplay 4E Spanish Translation",
   "version": "1.0",
   "minimumCoreVersion" : "0.7.0",
   "compatibleCoreVersion":"0.7.9",
