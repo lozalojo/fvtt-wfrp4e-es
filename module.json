@@ -22,7 +22,7 @@
     "name": "Español",
     "path": "es.json"
   }],
-  "url": "https://github.com/lozalojo/fvtt-wfrp4-es",
-  "manifest": "https://raw.githubusercontent.com/lozalojo/fvtt-wfrp4-es/master/module.json",
-  "download": "https://github.com/lozalojo/fvtt-wfrp4-es/archive/master.zip"
+  "url": "https://github.com/lozalojo/fvtt-wfrp4e-es",
+  "manifest": "https://raw.githubusercontent.com/lozalojo/fvtt-wfrp4e-es/master/module.json",
+  "download": "https://github.com/lozalojo/fvtt-wfrp4e-es/archive/master.zip"
   }
