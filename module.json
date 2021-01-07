@@ -1,0 +1,28 @@
+{
+  "name": "fvtt-wfrp4e-es",
+  "title": "WFRP4E Warhammer Fantasy Roleplay 4E Spanish Translation",
+  "description": "Traducción al Español del Sistema Warhammer Warhammer Juego de Rol de Fantasía 4a",
+  "version": "1.0",
+  "minimumCoreVersion" : "0.7.0",
+  "compatibleCoreVersion":"0.7.9",
+  "author": "@David#5098, @Bardo#7529, @netskaven#9185",
+  "scripts": [],
+  "styles": [],
+  "dependencies": [
+    {
+      "name": "wfrp4e",
+      "type": "system",
+      "version": "3.3.3"
+    }
+  ],
+  "packs": [],
+    
+  "languages": [{
+  	"lang": "es",
+    "name": "Español",
+    "path": "es.json"
+  }],
+  "url": "https://github.com/lozalojo/fvtt-wfrp4-es",
+  "manifest": "https://raw.githubusercontent.com/lozalojo/fvtt-wfrp4-es/master/module.json",
+  "download": "https://github.com/lozalojo/fvtt-wfrp4-es/archive/master.zip"
+  }
